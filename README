@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=764
+
+I try 100x upload script, but I get error every. I tried anything, until I found bug. If version is set to 0, upload failed.
